@@ -48,9 +48,10 @@ This notebook shows a complete BERT fine-tuning workflow carried out in `bert_fi
 - Saved checkpoints in `./checkpoints/` (or the path defined in `TrainingArguments`).
 - Final model and tokenizer directories: `./model/` (example).
 
-**Hugging Face model repo (add your repo link here):**
+**Hugging Face model repo:**
 
 - Model repository URL: [https://huggingface.co/moulee7788/my-bert-imdb/tree/main]()
+
 
 
 
